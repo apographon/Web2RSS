@@ -1,0 +1,13 @@
+<?php
+
+declare(strict_types=1);
+
+/**
+ * Copy to config.local.php. That file is gitignored.
+ * Do not put hosting logins, FTP passwords, or Fever credentials here.
+ */
+return [
+    'base_url' => 'https://example.com/web2rss',
+    // Optional. If set, HTTP cron requires cron.php?key=…
+    'cron_key' => '',
+];

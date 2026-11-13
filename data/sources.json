@@ -1,0 +1,180 @@
+{
+    "categories": {
+        "fotografie": {
+            "title": "Fotografie",
+            "description": "Neue Seiten auf überwachten Fotografie-Websites"
+        },
+        "eauto": {
+            "title": "eAuto",
+            "description": "Neue Seiten zu Emobility und Laden"
+        },
+        "diverses": {
+            "title": "Diverses",
+            "description": "Neue Seiten weiterer überwachter Websites"
+        }
+    },
+    "sources": [
+        {
+            "id": "leipoldt",
+            "name": "Thilo Leipoldt",
+            "url": "https://thiloleipoldt.myportfolio.com/work",
+            "category": "fotografie"
+        },
+        {
+            "id": "steinborn",
+            "name": "Thomas Steinborn",
+            "url": "https://steinbornfoto.de/neue-bilder/",
+            "category": "fotografie"
+        },
+        {
+            "id": "linkel",
+            "name": "Thomas Linkel",
+            "url": "https://www.thomaslinkel.de/blog/",
+            "category": "fotografie"
+        },
+        {
+            "id": "leitner",
+            "name": "Miriam Leitner",
+            "url": "http://miriamleitner.de/",
+            "category": "fotografie"
+        },
+        {
+            "id": "fotocommunity-drbop",
+            "name": "fotocommunity DrBop",
+            "url": "https://www.fotocommunity.de/user_photos/2598922?sort=new",
+            "category": "fotografie"
+        },
+        {
+            "id": "gadiel",
+            "name": "Normen Gadiel",
+            "url": "https://normengadiel.format.com/",
+            "category": "fotografie"
+        },
+        {
+            "id": "freelens",
+            "name": "FREELENS",
+            "url": "https://freelens.com/",
+            "category": "fotografie"
+        },
+        {
+            "id": "josselin",
+            "name": "Josselin",
+            "url": "https://josselin.de/",
+            "category": "fotografie"
+        },
+        {
+            "id": "moijn",
+            "name": "Moijn",
+            "url": "https://www.moijn.de/",
+            "category": "fotografie"
+        },
+        {
+            "id": "naturfotoworkshop",
+            "name": "Naturfotoworkshop",
+            "url": "https://www.naturfotoworkshop.at/",
+            "category": "fotografie"
+        },
+        {
+            "id": "ralf-scherer",
+            "name": "Ralf Scherer",
+            "url": "https://www.ralfscherer.com/",
+            "category": "fotografie"
+        },
+        {
+            "id": "der-greif",
+            "name": "Der Greif",
+            "url": "https://dergreif.org/",
+            "category": "fotografie"
+        },
+        {
+            "id": "energieloesung-magazin",
+            "name": "Energielösungen Magazin",
+            "url": "https://www.energieloesung.de/magazin/",
+            "category": "eauto"
+        },
+        {
+            "id": "plugsurfing",
+            "name": "Plugsurfing",
+            "url": "https://plugsurfing.com/blog/",
+            "category": "eauto"
+        },
+        {
+            "id": "frickeldave",
+            "name": "Dave König",
+            "url": "https://frickeldave.de/blog/",
+            "category": "diverses"
+        },
+        {
+            "id": "mond",
+            "name": "Mond-Events",
+            "url": "https://www.der-mond.de/",
+            "category": "diverses"
+        },
+        {
+            "id": "startnext-blog",
+            "name": "Startnext Blog",
+            "url": "https://www.startnext.com/blog",
+            "category": "diverses"
+        },
+        {
+            "id": "oeko-institut",
+            "name": "Oeko Institut",
+            "url": "https://www.oeko.de/blog/",
+            "category": "diverses"
+        },
+        {
+            "id": "blendstufe",
+            "name": "Blendstufe",
+            "url": "https://www.blendstufe.de/",
+            "category": "fotografie"
+        },
+        {
+            "id": "jing-zhou",
+            "name": "Jing Zhou",
+            "url": "https://jingzhou.de/",
+            "category": "fotografie"
+        },
+        {
+            "id": "markus-puettmann",
+            "name": "Markus Puettmann",
+            "url": "https://www.markuspuettmann.de/",
+            "category": "fotografie"
+        },
+        {
+            "id": "olaf-ist",
+            "name": "olaf-ist.net",
+            "url": "https://olaf-ist.net/",
+            "category": "fotografie"
+        },
+        {
+            "id": "sinnbildhaft",
+            "name": "sinnbildhaft",
+            "url": "https://www.sinnbildhaft.de/",
+            "category": "fotografie"
+        },
+        {
+            "id": "thomas-lammeyer",
+            "name": "Thomas Lammeyer",
+            "url": "https://www.thomas-lammeyer.de/",
+            "category": "fotografie"
+        },
+        {
+            "id": "uwe-noelke",
+            "name": "Uwe Nölke",
+            "url": "https://fotograf-schwerin.de/",
+            "category": "fotografie"
+        },
+        {
+            "id": "weichel",
+            "name": "Weichel",
+            "url": "https://www.weichel21.de/",
+            "category": "fotografie"
+        },
+        {
+            "id": "sushifiction",
+            "name": "sushifiction",
+            "url": "https://sushifiction.de/",
+            "category": "diverses"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+# Local overrides. May contain the public base URL and cron_key.
+/config.local.php
+
+# Crawl state, generated feeds, logs. Recreated on the server.
+/data/state/*.json
+/data/items/*.json
+/data/runs/*.json
+/data/*.log
+/data/*.lock
+/data/last-run.json
+/data/progress.json
+/data/abort.flag
+/feeds/*.xml
+
+# Other tools that share this working folder, but are separate projects.
+/ical-rss/
+/dayone-wayback/
+/fever-api/
+/opml-analyse/
+
+.DS_Store
