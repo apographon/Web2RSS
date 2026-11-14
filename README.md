@@ -94,12 +94,3 @@ php tests/run.php        Tests
 Solange `cron_key` leer ist, kann `cron.php` auch per URL ausgelöst werden. Mit gesetztem Key nur als `cron.php?key=…`. Die CLI braucht den Key nicht. Lange Läufe gehören in die CLI: ein HTTP-Aufruf kann am Gateway-Timeout enden und den Worker abbrechen.
 
 Reset löscht den gemerkten Stand. Der nächste Lauf ist wieder ein stiller erster Lauf und schickt den vorhandenen Bestand nicht erneut an Fever.
-
-## Was nicht ins Git gehört
-
-- `config.local.php`
-- `data/state/`, `data/items/`, Laufberichte, Logs und Locks
-- erzeugte `feeds/*.xml`
-- Hosting-Zugänge, FTP-Passwörter, Fever-Zugang, `cron_key`
-
-Die mitgelieferte `data/sources.json` enthält nur öffentliche Seiten-URLs.
